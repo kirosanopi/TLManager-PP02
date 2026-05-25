@@ -1,5 +1,26 @@
 @echo off
 echo.
+echo [checking dependencies...]
+echo.
+
+if not exist "backend\node_modules" (
+    echo [Installing backend dependencies...]
+    cd backend
+    call npm install
+    cd ..
+    echo [Backend dependencies installed!]
+    echo.
+)
+
+if not exist "frontend\node_modules" (
+    echo [Installing frontend dependencies...]
+    cd frontend
+    call npm install
+    cd ..
+    echo [Frontend dependencies installed!]
+    echo.
+)
+
 echo [starting application...]
 echo.
 
