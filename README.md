@@ -5,7 +5,7 @@ The TLManager project is a full-fledged application with all CRUD-endpoints, whi
 
 Instructions for using the project:
 
-Run the servers-open.bat file. Two console shells will open, each of which is responsible for its own server, i.e. backend and frontend. First, the backend-server window will open, followed by the frontend-server window. In the second window, you will need to press Y to continue. The server is now ready to use.
+Install project on your computer. Run the servers-open.bat file. Two console shells will open, each of which is responsible for its own server, i.e. backend and frontend. First, the backend-server window will open, followed by the frontend-server window. In the second window, you will need to press Y to continue. The server is now ready to use.
 
 In case the script doesn't work, we start the servers manually: 
 
@@ -20,7 +20,7 @@ In case the script doesn't work, we start the servers manually:
 
 Инструкция по эксплуатации проекта:
 
-Запустите файл servers-open.bat. Откроется две консольные оболочки, каждая из которых отвечает за свой сервер, то есть backend and frontend. Вначале откроется окно с запуском backend-server, затем уже frontend-server. Во втором окне необходимо будет нажать Y, чтобы продолжить. Все, сервер готов к работе;
+Устанавите проект на свой компьютер. Запустите файл servers-open.bat. Откроется две консольные оболочки, каждая из которых отвечает за свой сервер, то есть backend and frontend. Вначале откроется окно с запуском backend-server, затем уже frontend-server. Во втором окне необходимо будет нажать Y, чтобы продолжить. Все, сервер готов к работе;
 
 В случае, если скрипт не сработает, запускаем сервера вручную: 
 
